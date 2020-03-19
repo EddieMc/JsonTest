@@ -1,5 +1,5 @@
 {
-  "googlevideos": [{
+  "Multitrust Videos": [{
     "category": "Multitrust",
     "videos": [{
       "description": "Clear Dash stream",
@@ -7,6 +7,13 @@
       "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
       "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
       "title": "Clear Dash",
+      "studio": "Multitrust"
+    }, {
+      "description": "Encrypted Dash stream",
+      "sources": ["https://urm.latens.com:9443/demo/content/dash/top_gun_maverick/out.mpd"],
+      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/card.jpg",
+      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/card.jpg",
+      "title": "Encrypted Dash",
       "studio": "Multitrust"
     }]
   }]
