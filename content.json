@@ -17,8 +17,8 @@
     "videos": [{
       "description": "Encrypted Dash Stream",
       "sources": ["https://urm.latens.com:9443/demo/content/dash/top_gun_maverick/out.mpd"],
-      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20New%20Dad/bg.jpg",
+      "card": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/orGXnBKfT41LxZhitLkXhqUfJJW.jpg",
+      "background": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/orGXnBKfT41LxZhitLkXhqUfJJW.jpg",
       "title": "Encrypted Dash",
       "studio": "Multitrust",
       "license": "https://urm.latens.com:6443/WvLicenseProxy33",
