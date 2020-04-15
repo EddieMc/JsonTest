@@ -34,6 +34,26 @@
       "license": "https://urm.latens.com:6443/WvLicenseProxy33",
       "authtoken": "eyJhbGciOiJBMTI4S1ciLCJlbmMiOiJBMTI4R0NNIiwia2lkIjoiZDI5NGY2NzctNzdmNS00M2Q1LWI1MDMtOWU3ZmM3NWU5ZGNmIiwiaXNzIjoiQXJyaXMiLCJleHAiOiIxMTg5MzgxNDA5ODU0NzIiLCJ2ZXJzaW9uIjoiMSJ9Cg==.RBS0Ld5LHSYGkmWECuO8CQ==.W6EcPZDHa60rcnwh9yTY5g==.KT6eHKUFUzWn_b4FXhqqDC3jmPb_LsXIyQuGbhK4DlrURixwsWO_bOjqfcz8EGEAzM3pP_K8OKLjiw7C1qOrCVvsZXgo-FAzyA5hQ_0GVL8FO3C9_wWgkxrE1vHYC3KL-ob7jgDmX_OxsnEownuwFvtAB8Asro0RBgc89xSGsoe6zXYTdgHMkT4XBRf8qb5BmTTFJdG170Y7L1RJ5c4sKqItLSQ4F9bKPJQftA==.XWJxIpH4UEFG7XvxE6LnAg==",
       "drmscheme": "widevine"
+    }, {
+      "description": "Zombieland Double Tap",
+      "sources": ["https://urm.latens.com:9443/demo/content/dash/zombieland/out.mpd"],
+      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
+      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
+      "title": "Zombieland Double Tap",
+      "studio": "Multitrust",
+      "license": "https://urm.latens.com:6443/WvLicenseProxy33",
+      "authtoken": "eyJhbGciOiJBMTI4S1ciLCJlbmMiOiJBMTI4R0NNIiwia2lkIjoiNjViMTM2NmYtNTMxYS00OGJkLWE4ZWQtZjMwMjNjZWE3ZDgyIiwiaXNzIjoiQXJyaXMiLCJleHAiOiIxMTg5MzgxNDEwMjIyNzAiLCJ2ZXJzaW9uIjoiMSJ9Cg==.43gpNp1hzyfW1ciUf-TcKA==._M_l-bq3BaxelSrXijfiCg==.fo1217ppFE0Ajv0jup431td-7UzQsIr8S8AFyYrUSHHUkrNCYBJiZ6x4q_4dI5QelZ0wGeKgLZ1aXdvBDx5Tj3au7bj943IcWH3kQ5LLq1ngkZKFxcNF7H-la4Esx9spLAV3FcGqrAsA4vHI5ntNjmC9x08TvAHLUI-Zpgq4r6zLknSvelRSwma6Eboo2rQJP9KyakLwFzDBuB78g0kEQYCntddHapzfpJTCPA==.Tn9jJrW7dIceWI7lAZOrng==",
+      "drmscheme": "widevine"
+    }, {
+      "description": "Dead Water",
+      "sources": ["https://urm.latens.com:9443/demo/content/dash/dead_water/out.mpd"],
+      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
+      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
+      "title": "Dead Water",
+      "studio": "Multitrust",
+      "license": "https://urm.latens.com:6443/WvLicenseProxy33",
+      "authtoken": "eyJhbGciOiJBMTI4S1ciLCJlbmMiOiJBMTI4R0NNIiwia2lkIjoiMDQ1YmFjOTQtYzcwYy00OWE3LTk1YTMtNDBhNTlmZDgwZWFlIiwiaXNzIjoiQXJyaXMiLCJleHAiOiIxMTg5MzgxNDA5MjcxNjkiLCJ2ZXJzaW9uIjoiMSJ9Cg==.DuGgyaYUEvmYll5IdecNBg==.MDAjdGooPbs-ox12k--izw==.3ZyYOt0YePNM6moS41nYHIgyn7gHsfoBEtOo6AVlXKgQlmuZ78uIvLnqgfRWozrksYkWLg7IomJVQY4ubm_Ufp9s4NG5T2rTU1Qp544FMNm4-XhjXhQeBVNspeDGjmC-rOQ9c3Bt4g9Ub918MZOdQKa8wulr7BIdpNrQ7Ov2D-rRCz_wYvPvygnd2V_ul_l09OxJ0Fm5uAnQlKWmFFg6jy0UQv7jvo0qbkLsow==.aaOpQbAQAUfJzjXRyxkpkw==",
+      "drmscheme": "widevine"
     }]
   }]
 }
