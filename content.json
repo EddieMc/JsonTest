@@ -15,14 +15,24 @@
   }, {
     "category": "MultitrustEncrypted",
     "videos": [{
-      "description": "Encrypted Dash Stream",
+      "description": "Top Gun",
       "sources": ["https://urm.latens.com:9443/demo/content/dash/top_gun_maverick/out.mpd"],
       "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
       "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
-      "title": "Encrypted Dash",
+      "title": "Top Gun",
       "studio": "Multitrust",
       "license": "https://urm.latens.com:6443/WvLicenseProxy33",
       "authtoken": "eyJhbGciOiJBMTI4S1ciLCJlbmMiOiJBMTI4R0NNIiwia2lkIjoiMzAxOTNiNzctM2UyYS00MDlkLWEyMWEtMjQwZDIyOWE4YmI4IiwiaXNzIjoiQXJyaXMiLCJleHAiOiIxNzM3Mzg3OTU0MTE2IiwidmVyc2lvbiI6IjEifQo=.-u5Tvi0vXcl8mPuTjbG4yg==.U6fhcK24szebw70nhrP97A==.ZcB8x5xWMyotXfhVG9snoT3W3nZiWI-Jeblf87YocVGWgp_T5LNKPYKef5vMzzks42UMWJWJYWlyJdhPaqMfjAqW8yuPAeLt7DFab-iCpUQB3waSh3tPUcFTq5Xu0VmhfhYtbTEKMordFioaUdSFra4STDwgsKQC85GMO2q-AvyxpOk0u2XRpNXWjZ5UxFrenmAvBkmauiRYWITFvXW-nBomjDnyQIin9Ug=.hRl7ihc0SiliIPTBROfl4A==",
+      "drmscheme": "widevine"
+    }, {
+      "description": "Sonic",
+      "sources": ["https://urm.latens.com:9443/demo/content/dash/sonic_movie/out.mpd"],
+      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
+      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
+      "title": "Sonic",
+      "studio": "Multitrust",
+      "license": "https://urm.latens.com:6443/WvLicenseProxy33",
+      "authtoken": "eyJhbGciOiJBMTI4S1ciLCJlbmMiOiJBMTI4R0NNIiwia2lkIjoiZDI5NGY2NzctNzdmNS00M2Q1LWI1MDMtOWU3ZmM3NWU5ZGNmIiwiaXNzIjoiQXJyaXMiLCJleHAiOiIxMTg5MzgxNDA5ODU0NzIiLCJ2ZXJzaW9uIjoiMSJ9Cg==.RBS0Ld5LHSYGkmWECuO8CQ==.W6EcPZDHa60rcnwh9yTY5g==.KT6eHKUFUzWn_b4FXhqqDC3jmPb_LsXIyQuGbhK4DlrURixwsWO_bOjqfcz8EGEAzM3pP_K8OKLjiw7C1qOrCVvsZXgo-FAzyA5hQ_0GVL8FO3C9_wWgkxrE1vHYC3KL-ob7jgDmX_OxsnEownuwFvtAB8Asro0RBgc89xSGsoe6zXYTdgHMkT4XBRf8qb5BmTTFJdG170Y7L1RJ5c4sKqItLSQ4F9bKPJQftA==.XWJxIpH4UEFG7XvxE6LnAg==",
       "drmscheme": "widevine"
     }]
   }]
