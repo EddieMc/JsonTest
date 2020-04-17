@@ -17,8 +17,8 @@
     "videos": [{
       "description": "Top Gun",
       "sources": ["https://urm.latens.com:9443/demo/content/dash/top_gun_maverick/out.mpd"],
-      "card": "https://urm.latens.com:9443/demo/posters/top_gun_maveric.png",
-      "background": "https://urm.latens.com:9443/demo/posters/top_gun_maveric.png",
+      "card": "https://urm.latens.com:9443/demo/posters/top_gun_maverick.png",
+      "background": "https://urm.latens.com:9443/demo/posters/top_gun_maverick.png",
       "title": "Top Gun",
       "studio": "Multitrust",
       "license": "https://urm.latens.com:6443/WvLicenseProxy33",
