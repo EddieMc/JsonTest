@@ -17,8 +17,8 @@
     "videos": [{
       "description": "Top Gun",
       "sources": ["https://urm.latens.com:9443/demo/content/dash/top_gun_maverick/out.mpd"],
-      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
+      "card": "https://urm.latens.com:9443/demo/posters/top_gun_maveric.png",
+      "background": "https://urm.latens.com:9443/demo/posters/top_gun_maveric.png",
       "title": "Top Gun",
       "studio": "Multitrust",
       "license": "https://urm.latens.com:6443/WvLicenseProxy33",
@@ -27,8 +27,8 @@
     }, {
       "description": "Sonic",
       "sources": ["https://urm.latens.com:9443/demo/content/dash/sonic_movie/out.mpd"],
-      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
+      "card": "https://urm.latens.com:9443/demo/posters/sonic_movie.png",
+      "background": "https://urm.latens.com:9443/demo/posters/sonic_movie.png",
       "title": "Sonic",
       "studio": "Multitrust",
       "license": "https://urm.latens.com:6443/WvLicenseProxy33",
@@ -37,8 +37,8 @@
     }, {
       "description": "Zombieland Double Tap",
       "sources": ["https://urm.latens.com:9443/demo/content/dash/zombieland/out.mpd"],
-      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
+      "card": "https://urm.latens.com:9443/demo/posters/zombieland.png",
+      "background": "https://urm.latens.com:9443/demo/posters/zombieland.png",
       "title": "Zombieland Double Tap",
       "studio": "Multitrust",
       "license": "https://urm.latens.com:6443/WvLicenseProxy33",
@@ -47,8 +47,8 @@
     }, {
       "description": "Dead Water",
       "sources": ["https://urm.latens.com:9443/demo/content/dash/dead_water/out.mpd"],
-      "card": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/card.jpg",
-      "background": "https://storage.googleapis.com/android-tv/Sample%20videos/Google%2B/Google%2B_%20Instant%20Upload/bg.jpg",
+      "card": "https://urm.latens.com:9443/demo/posters/dead_water.png",
+      "background": "https://urm.latens.com:9443/demo/posters/dead_water.png",
       "title": "Dead Water",
       "studio": "Multitrust",
       "license": "https://urm.latens.com:6443/WvLicenseProxy33",
