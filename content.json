@@ -11,6 +11,26 @@
       "license": "",
       "authtoken": "",
       "drmscheme": "widevine"
+    }, {
+      "description": "Ad Astra",
+      "sources": ["http://urm.latens.com:9080/demo/content/dash/ad_astra_hd_clear/out.mpd"],
+      "card": "https://urm.latens.com:9080/demo/posters/ad_astra_hd_clear.png",
+      "background": "https://urm.latens.com:9080/demo/posters/ad_astra_hd_clear.png",
+      "title": "Ad Astra",
+      "studio": "Multitrust",
+      "license": "",
+      "authtoken": "",
+      "drmscheme": "widevine"
+    }, {
+      "description": "Angry Birds",
+      "sources": ["http://urm.latens.com:9080/demo/content/dash/ab2_hd_clear/out.mpd"],
+      "card": "https://urm.latens.com:9080/demo/posters/ab2_hd_clear.png",
+      "background": "https://urm.latens.com:9080/demo/posters/ab2_hd_clear.png",
+      "title": "Angry Birds",
+      "studio": "Multitrust",
+      "license": "",
+      "authtoken": "",
+      "drmscheme": "widevine"
     }]
   }, {
     "category": "MultitrustEncrypted",
