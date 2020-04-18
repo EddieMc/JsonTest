@@ -1,6 +1,6 @@
 {
   "multitrustvideos": [{
-    "category": "Multitrust",
+    "category": "MultitrustClear",
     "videos": [{
       "description": "Clear Dash Stream",
       "sources": ["https://urm.latens.com:9443/content/dash_clr/out.mpd"],
@@ -12,7 +12,7 @@
       "authtoken": "",
       "drmscheme": "widevine"
     }, {
-      "description": "Ad Astra",
+      "description": "Astronaut Roy McBride undertakes a mission across an unforgiving solar system to uncover the truth about his missing father and his doomed expedition that now, 30 years later, threatens the universe.",
       "sources": ["http://urm.latens.com:9080/demo/content/dash/ad_astra_hd_clear/out.mpd"],
       "card": "https://urm.latens.com:9443/demo/posters/ad_astra.png",
       "background": "https://urm.latens.com:9443/demo/posters/ad_astra.png",
@@ -22,7 +22,7 @@
       "authtoken": "",
       "drmscheme": "widevine"
     }, {
-      "description": "Angry Birds",
+      "description": "Bird and Piggy Islands are under threat when Zeta, the leader of Eagle Island, wants to occupy them. Red must join forces with Leonard's team to thwart her bold schemes and save their homes.",
       "sources": ["http://urm.latens.com:9080/demo/content/dash/ab2_hd_clear/out.mpd"],
       "card": "https://urm.latens.com:9443/demo/posters/angry_birds_2.png",
       "background": "https://urm.latens.com:9443/demo/posters/angry_birds_2.png",
@@ -35,7 +35,7 @@
   }, {
     "category": "MultitrustEncrypted",
     "videos": [{
-      "description": "Top Gun",
+      "description": "After more than thirty years of service as one of the Navy's top aviators, Pete Mitchell is where he belongs, pushing the envelope as a courageous test pilot and dodging the advancement in rank that would ground him.",
       "sources": ["https://urm.latens.com:9443/demo/content/dash/top_gun_maverick/out.mpd"],
       "card": "https://urm.latens.com:9443/demo/posters/top_gun_maverick.png",
       "background": "https://urm.latens.com:9443/demo/posters/top_gun_maverick.png",
@@ -45,7 +45,7 @@
       "authtoken": "eyJhbGciOiJBMTI4S1ciLCJlbmMiOiJBMTI4R0NNIiwia2lkIjoiMzAxOTNiNzctM2UyYS00MDlkLWEyMWEtMjQwZDIyOWE4YmI4IiwiaXNzIjoiQXJyaXMiLCJleHAiOiIxNzM3Mzg3OTU0MTE2IiwidmVyc2lvbiI6IjEifQo=.-u5Tvi0vXcl8mPuTjbG4yg==.U6fhcK24szebw70nhrP97A==.ZcB8x5xWMyotXfhVG9snoT3W3nZiWI-Jeblf87YocVGWgp_T5LNKPYKef5vMzzks42UMWJWJYWlyJdhPaqMfjAqW8yuPAeLt7DFab-iCpUQB3waSh3tPUcFTq5Xu0VmhfhYtbTEKMordFioaUdSFra4STDwgsKQC85GMO2q-AvyxpOk0u2XRpNXWjZ5UxFrenmAvBkmauiRYWITFvXW-nBomjDnyQIin9Ug=.hRl7ihc0SiliIPTBROfl4A==",
       "drmscheme": "widevine"
     }, {
-      "description": "Sonic",
+      "description": "After discovering a small, blue, fast hedgehog, a small-town police officer must help it defeat an evil genius who wants to do experiments on it.",
       "sources": ["https://urm.latens.com:9443/demo/content/dash/sonic_movie/out.mpd"],
       "card": "https://urm.latens.com:9443/demo/posters/sonic_movie.png",
       "background": "https://urm.latens.com:9443/demo/posters/sonic_movie.png",
@@ -55,7 +55,7 @@
       "authtoken": "eyJhbGciOiJBMTI4S1ciLCJlbmMiOiJBMTI4R0NNIiwia2lkIjoiZDI5NGY2NzctNzdmNS00M2Q1LWI1MDMtOWU3ZmM3NWU5ZGNmIiwiaXNzIjoiQXJyaXMiLCJleHAiOiIxMTg5MzgxNDA5ODU0NzIiLCJ2ZXJzaW9uIjoiMSJ9Cg==.RBS0Ld5LHSYGkmWECuO8CQ==.W6EcPZDHa60rcnwh9yTY5g==.KT6eHKUFUzWn_b4FXhqqDC3jmPb_LsXIyQuGbhK4DlrURixwsWO_bOjqfcz8EGEAzM3pP_K8OKLjiw7C1qOrCVvsZXgo-FAzyA5hQ_0GVL8FO3C9_wWgkxrE1vHYC3KL-ob7jgDmX_OxsnEownuwFvtAB8Asro0RBgc89xSGsoe6zXYTdgHMkT4XBRf8qb5BmTTFJdG170Y7L1RJ5c4sKqItLSQ4F9bKPJQftA==.XWJxIpH4UEFG7XvxE6LnAg==",
       "drmscheme": "widevine"
     }, {
-      "description": "Zombieland Double Tap",
+      "description": "Columbus, Tallahassee, Wichita, and Little Rock move to the American heartland as they face off against evolved zombies, fellow survivors, and the growing pains of the snarky makeshift family.",
       "sources": ["https://urm.latens.com:9443/demo/content/dash/zombieland/out.mpd"],
       "card": "https://urm.latens.com:9443/demo/posters/zombieland.png",
       "background": "https://urm.latens.com:9443/demo/posters/zombieland.png",
@@ -65,7 +65,7 @@
       "authtoken": "eyJhbGciOiJBMTI4S1ciLCJlbmMiOiJBMTI4R0NNIiwia2lkIjoiNjViMTM2NmYtNTMxYS00OGJkLWE4ZWQtZjMwMjNjZWE3ZDgyIiwiaXNzIjoiQXJyaXMiLCJleHAiOiIxMTg5MzgxNDEwMjIyNzAiLCJ2ZXJzaW9uIjoiMSJ9Cg==.43gpNp1hzyfW1ciUf-TcKA==._M_l-bq3BaxelSrXijfiCg==.fo1217ppFE0Ajv0jup431td-7UzQsIr8S8AFyYrUSHHUkrNCYBJiZ6x4q_4dI5QelZ0wGeKgLZ1aXdvBDx5Tj3au7bj943IcWH3kQ5LLq1ngkZKFxcNF7H-la4Esx9spLAV3FcGqrAsA4vHI5ntNjmC9x08TvAHLUI-Zpgq4r6zLknSvelRSwma6Eboo2rQJP9KyakLwFzDBuB78g0kEQYCntddHapzfpJTCPA==.Tn9jJrW7dIceWI7lAZOrng==",
       "drmscheme": "widevine"
     }, {
-      "description": "Dead Water",
+      "description": "When a relaxing getaway turns deadly, a former Marine must risk his life once again to save his wife and best friend from a modern day pirate; all the while trying to hold himself together as he faces the ghosts of the war he left behind.",
       "sources": ["https://urm.latens.com:9443/demo/content/dash/dead_water/out.mpd"],
       "card": "https://urm.latens.com:9443/demo/posters/dead_water.png",
       "background": "https://urm.latens.com:9443/demo/posters/dead_water.png",
